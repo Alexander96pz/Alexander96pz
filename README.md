@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Marlon</h2>
 
-<!--
-**Alexander96pz/Alexander96pz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+<h3> 👨🏻•💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Computer and Information Systems at UTPL (Universidad Técnica Particular de Loja).
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Backend.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Java (Spring Boot)
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
+
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
+
+- 🐳 &nbsp; Docker
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; Kubernetes | Firebase 
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+
+  This is my email: 96xanderp@gmail.com.
+  
+</p>
+
+
+<hr>
