@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer and Information Systems at UTPL (Universidad Técnica Particular de Loja).
+- 🎓 &nbsp; Engineer Computer and Information Systems at UTPL (2022) (Universidad Técnica Particular de Loja).
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Backend.
 
@@ -18,9 +18,9 @@
 
 
 
-- 💻 &nbsp; Python | Java (Spring Boot)
+- 💻 &nbsp; Javascript | Java (Spring Boot)
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
+- 🌐 &nbsp; HTML | CSS | Typescript | Bootstrap | Angular
 
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 
@@ -30,7 +30,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Kubernetes | Firebase 
+- 🔧 &nbsp; Kubernetes 
 
 <hr>
 
